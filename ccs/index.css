@@ -66,3 +66,9 @@ h1 {
     justify-content: center;
     background-image: url(../image/polygonal-grey-background-abstract-vector-geometric-design-polygonal-grey-background-abstract-vector-geometric-design-135285197.jpg);
 }
+
+video {
+    display: flex;
+    justify-content: center;
+    margin-right: 200px;
+}
